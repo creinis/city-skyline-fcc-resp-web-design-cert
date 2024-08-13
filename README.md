@@ -1,4 +1,4 @@
-# City Skyline - Responsive CSS Design
+# City Skyline
 
 ###### Technologies:
 <p align="center">
